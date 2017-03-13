@@ -1,5 +1,8 @@
 _repo: The-Different-Forms-of-Flowers-on-Plants-of-the-Same-Species_3807
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Charles
@@ -13,6 +16,8 @@ description: "The Different Forms of Flowers on Plants of the Same Species is a 
   \ by Charles Darwin first published in 1877. It is the fifth of his six books devoted\
   \ solely to the study of plants (excluding The Variation of Animals and Plants under\
   \ Domestication).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3807#The-Different-Forms-of-Flowers-on-Plants-of-the-Same-Species
 gutenberg_bookshelf: Botany
 gutenberg_issued: '2003-03-01'
 gutenberg_type: Text
