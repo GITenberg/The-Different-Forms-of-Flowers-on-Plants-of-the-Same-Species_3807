@@ -1,5 +1,5 @@
 _repo: The-Different-Forms-of-Flowers-on-Plants-of-the-Same-Species_3807
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,6 +35,7 @@ subjects:
 - !lcsh 'Plants -- Variation'
 - !lcsh 'Plant physiology'
 - !lcsh 'Fertilization of plants'
+- GITenberg
 title: The Different Forms of Flowers on Plants of the Same Species
 url: http://www.gutenberg.org/ebooks/3807
 wikipedia:
